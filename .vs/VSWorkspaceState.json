@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\alldata",
+    "\\alldata\\migrations",
+    "\\alldata\\migrations\\__pycache__",
+    "\\CodericTrack",
+    "\\CodericTrack\\__pycache__",
+    "\\static",
+    "\\static\\css",
+    "\\templates"
+  ],
+  "SelectedNode": "\\CodericTrack\\urls.py",
+  "PreviewInSolutionExplorer": false
+}
